@@ -17,7 +17,7 @@ The current latest release is visible in the [Releases](https://github.com/andre
 
 If you have found a security issue in SMTPly, report it privately by email:
 
-- **Contact:** `mail@hpn.io`
+- **Contact:** `mail@smtply.app`
 - **Subject:** `SMTPly Security — <brief topic>`
 
 Include in your report:
